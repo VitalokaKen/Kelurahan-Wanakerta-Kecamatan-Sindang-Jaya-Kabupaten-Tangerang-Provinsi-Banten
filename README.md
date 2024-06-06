@@ -115,7 +115,7 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'30.6%22S+106%C2%B053'53.3%22E/@-6.3918237,106.8955701,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391829!4d106.898145?entry=ttu">
+              <td><a [href="https://www.google.com/maps/place/6%C2%B023'30.6%22S+106%C2%B053'53.3%22E/@-6.3918237,106.8955701,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391829!4d106.898145?entry=ttu](https://www.google.com/maps/place/6%C2%B011'39.6%22S+106%C2%B030'34.4%22E/@-6.194336,106.509544,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.194336!4d106.509544?entry=ttu)">
  -6.194336, 106.509544											
                   </a></td>
             </tr>
@@ -127,17 +127,17 @@
            <tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 112 m2</td>
+              <td> 83 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 134 m2</td>
+              <td> 90 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,353,900,000.-</td>
+              <td> Rp 1.097.740.000.-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
@@ -161,24 +161,24 @@
 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td> Raffles Hills Blok O 8 No 11 </td>
+              <td>Lavon Swan City "Cluster Gracia"</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'28.8%22S+106%C2%B053'55.1%22E/@-6.3913227,106.8960741,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391328!4d106.898649?entry=ttu">
--6.391328, 106.898649				
+              <td><a [href="https://www.google.com/maps/place/6%C2%B023'28.8%22S+106%C2%B053'55.1%22E/@-6.3913227,106.8960741,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391328!4d106.898649?entry=ttu](https://www.google.com/maps/place/6%C2%B009'47.2%22S+106%C2%B034'14.9%22E/@-6.163117,106.570817,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.163117!4d106.570817?entry=ttu)">
+-6.163117, 106.570817				
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Rumah tinggal</th>
+              <th>Rumah Tinggal</th>
             </tr>
            <tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Pemilik</td>
+              <td>Anita</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
@@ -222,8 +222,7 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td> Raffles Hills Blok O 8 No 8 		
-	</td>
+              <td>Lavon Swan City "Cluster Gracia"</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
@@ -283,8 +282,7 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td> Raffles Hills Blok O 5  		
-	</td>
+              <td>Lavon Swan City "Cluster Gracia"</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
