@@ -188,17 +188,17 @@
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td>112 m2</td>
+              <td>79 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td>140 m2</td>
+              <td>73 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,650,000,000.-</td>
+              <td>Rp. 1.100.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
