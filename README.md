@@ -183,7 +183,7 @@
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td> 0822 1717 0988 </td>
+              <td>0878 8097 9116</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
