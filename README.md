@@ -203,7 +203,7 @@
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 8,928,000.-</td>
+              <td>Rp. 4.500.000,-</td>
             </tr>
           </tbody>
         </table>
