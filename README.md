@@ -116,7 +116,7 @@
               <td>Titik Koordinat</td>
               <td>:</td>
               <td><a href="https://www.google.com/maps/place/6%C2%B023'30.6%22S+106%C2%B053'53.3%22E/@-6.3918237,106.8955701,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391829!4d106.898145?entry=ttu">
- -6.391829, 106.898145											
+ -6.194336, 106.509544											
                   </a></td>
             </tr>
 			<tr>
