@@ -56,16 +56,16 @@
           </ol>
           <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-				<img class="d-block w-100" src="CITRA 1.png" alt="First slide" />
+				<img class="d-block w-100" src="herwan1.png" alt="First slide" />
             </div>
                       </div>
-          <a class="carousel-control-prev" href="CITRA 2.png" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="herwan2.png" role="button" data-slide="prev">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-left"></i>
             </span>
             <span class="sr-only">Previous</span>
           </a>
-          <a class="carousel-control-next" href="CITRA 3.png" role="button" data-slide="next">
+          <a class="carousel-control-next" href="herwan3.png" role="button" data-slide="next">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-right"></i>
             </span>
@@ -90,8 +90,7 @@
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Perumahan Raffles Hills Blok O 8 No 12 Rt 006 Rw 25, Kelurahan Sukatani, Kecamatan Cimanggis, Kota Depok, Provinsi Jawa Barat.																											
-			</td>
+              <td>Lavon Swan City "Cluster Gracia", Jalan Gracia 8 Blok G-1 No. 06, Desa Wanakerta, Kecamatan Sindang Jaya, Kabupaten Tangerang, Provinsi Banten.</td>
             </tr>
 			 <tr>
               <td>Basis Nilai</td>
@@ -101,17 +100,17 @@
 			<tr>
               <td>Tanggal Inspeksi</td>
               <td>: </td>
-              <td>18 Januari 2022</td>
+              <td>22 Februari 2023</td>
             </tr>
 			<tr>
               <td>Tanggal Penilaian</td>
               <td>: </td>
-              <td>24 Januari 2022</td>
+              <td>20 Februari 2023</td>
             </tr>
 			<tr>
               <td>Tahun Penilaian</td>
               <td>: </td>
-              <td> 2022 </td>
+              <td>2023</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
@@ -363,7 +362,7 @@
 
 
         var iconsekolah = L.icon({
-            iconUrl: 'OBJEK CITRA.png',
+            iconUrl: 'herwan.png',
             iconSize:     [300, 300],        
         });
 
