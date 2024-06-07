@@ -166,7 +166,7 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a [href="https://www.google.com/maps/place/6%C2%B009'47.2%22S+106%C2%B034'14.9%22E/@-6.163117,106.570817,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.163117!4d106.570817?entry=ttu">
+              <td><a href="https://www.google.com/maps/place/6%C2%B009'47.2%22S+106%C2%B034'14.9%22E/@-6.163117,106.570817,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.163117!4d106.570817?entry=ttu">
 -6.163117, 106.570817				
                   </a></td>
             </tr>
@@ -203,7 +203,7 @@
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp. 4.500.000,-</td>
+              <td>Rp. 8.140.477,-</td>
             </tr>
           </tbody>
         </table>
@@ -227,8 +227,8 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'28.7%22S+106%C2%B053'56.6%22E/@-6.3912907,106.8964711,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391296!4d106.899046?entry=ttu">
--6.391296, 106.899046			
+              <td><a href="https://www.google.com/maps/place/6%C2%B009'50.1%22S+106%C2%B034'14.7%22E/@-6.163916,106.57075,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.163916!4d106.57075?entry=ttu">
+-6.163916, 106.570750			
                   </a></td>
             </tr>
 			<tr>
@@ -239,32 +239,32 @@
 			<tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Pemilik</td>
+              <td>Agnes Dewi</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td> 0818 117 464 </td>
+              <td>0821 1116 8818</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td>120 m2</td>
+              <td>77 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td>200 m2</td>
+              <td>71 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,800,000,000.-</td>
+              <td>Rp. 1.150.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 8,394,000.-</td>
+              <td>Rp. 9.007.727,-</td>
             </tr>
           </tbody>
         </table>
@@ -287,8 +287,8 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'28.6%22S+106%C2%B054'01.9%22E/@-6.3912807,106.8979621,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391286!4d106.900537?entry=ttu">
--6.391286, 106.900537
+              <td><a href="https://www.google.com/maps/place/6%C2%B009'55.0%22S+106%C2%B034'15.8%22E/@-6.165282,106.571068,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.165282!4d106.571068?entry=ttu">
+-6.165282, 106.571068
                   </a></td>
             </tr>
 			<tr>
@@ -299,32 +299,32 @@
            <tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td> Agen properti </td>
+              <td>Feri</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td> 0812 14017813 </td>
+              <td>0838 8057 888</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 112 m2</td>
+              <td> 77 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 157 m2</td>
+              <td> 71 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,750,000,000.-</td>
+              <td>Rp. 1.125.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 9,068,000.-</td>
+              <td>Rp. 8.731.753,-</td>
             </tr>
           </tbody>
         </table>
